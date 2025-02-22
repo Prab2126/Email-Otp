@@ -6,8 +6,8 @@
 **Feature**
 - [x] paste text directly  
 - [x] auto focus text field
-- [x] Number suppoerted
-- [ ] Alphabet suppoerted
+- [x] Number Supported
+- [ ] Alphabet Supported
 - [ ] features update 
 
 
