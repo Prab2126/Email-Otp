@@ -1,12 +1,7 @@
 # Email Otp
 
-```js
-function React(){
-const createdWithReact="Yes";
-return <div>{createdWithReact}</div>
-}
-export default React;
-```
+`WebSite URL`  
+[Click to visit](https://prab2126.github.io/Email-Otp/)
 ---
 **Feature**
 - [x] paste text directly  
